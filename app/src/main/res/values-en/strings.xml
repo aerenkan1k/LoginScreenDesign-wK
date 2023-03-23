@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginScreenDesign-wK</string>
+    <string name="kullaniciAdi">Username</string>
+    <string name="sifre">Password</string>
+    <string name="buttonYazi">Login</string>
+    <string name="yardim">Help</string>
+</resources>
